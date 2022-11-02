@@ -20,10 +20,12 @@ body{
     color: white;
     text-decoration: none;
     padding-right: 200px;
+    margin-right: 10px;
 }
 
 a:hover{
-    background-color: rgba(230, 230, 230,0.4);
+    background-color: rgba(230, 230, 230,0.8);
+    color: rgba(255,0,0,255);
 }
 
 .toutLeReste{
